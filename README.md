@@ -1,5 +1,4 @@
 # Natural language processing: spell checker
-NLP project about news classification
 
 <img src="https://github.com/misiungs/readme_images/blob/master/spellchecker.jpg?raw=true" alt="drawing" width="500"/>
 
